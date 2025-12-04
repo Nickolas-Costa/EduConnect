@@ -100,7 +100,7 @@ Abra o projeto no IntelliJ IDEA
 
 Execute a classe:
 
-src/ui/Main.java   (ou Fase8.java)
+src/Fase8.java
 
 
 Navegue pelos menus interativos.
@@ -108,6 +108,7 @@ Navegue pelos menus interativos.
 🔗 Códigos e Estrutura Completa
 
 Todos os códigos das Fases 7 e 8 — entidades, serviços, repositórios e UI — estão neste repositório para conferência e revisão.
+
 
 🧑‍💻 Tecnologias Utilizadas
 
@@ -120,6 +121,7 @@ Padrões de arquitetura em camadas
 Programação orientada a objetos (POO)
 
 Console UI (Scanner)
+
 
 📄 Licença
 
